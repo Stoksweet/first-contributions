@@ -12,6 +12,7 @@
 - [Prashant Bhat](https://github.com/bhatprashant)
 - [Ollie de Guzman] (https://github.com/roldeguz)
 - [Priya Mane](https://github.com/pugnator-12)
+- [Gabriel Cassim](https://github.com/stoksweet)
 - [Jac Thomas](https://github.com/jac0310)
 - [Lara Salam] (https://github.com/larasalam)
 - [Ahmed Waheed](https://github.com/mrcreamio)
